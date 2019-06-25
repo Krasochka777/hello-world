@@ -1,4 +1,4 @@
-# hello-world
+# dev-intensive-2019
 Инициализировать этот репозиторий с помощью README
 Hi there.
 My name is Kate.
